@@ -1,4 +1,4 @@
-# -City-Garden-a-Mobile-App-that-Promote-Urban-Agriculture-Practice
+# City-Garden-a-Mobile-App-that-Promote-Urban-Agriculture-Practice
 
 GrowIt is a mobile app, is available in all platform
 included Android, IOS, Web etc allow a user to make his
